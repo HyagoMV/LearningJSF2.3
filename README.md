@@ -19,6 +19,7 @@ https://jakarta.ee/specifications/faces/2.3/vdldoc/index.html
 
 # Managed Bean
 - Managed Bean é um objeto Java que é gerenciado pelo Framework JSF
+
 | Year | JSE | JEE | Servlet             | JSP                 | JSF                                        | JSTL               | JPA                | JSP EL              | UN EL              | Bean Validation | EJB               |
 |------|-----|-----|---------------------|---------------------|--------------------------------------------|--------------------|--------------------|---------------------|--------------------|-----------------|-------------------|
 | 2017 | 9   | 8   | 4.0 - JSR 369       |                     | 2.3 - JSR 372 (FR)                         |                    | 2.2 - JSR 338 (MR) |                     |                    | 2.0             |                   |

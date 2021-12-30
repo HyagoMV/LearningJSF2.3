@@ -15,9 +15,9 @@ https://jakarta.ee/specifications/faces/2.3/vdldoc/index.html
 - Tratamento de Eventos (Server side)
 - Validação de Dados (Server side)
 - Coversão de Dados (Server side)
-- Definição de Navegabilidade das páginas
+- Navegação de página
 - Suport a internacionalização e acessibilidade
-- Extensível
+- Customização
 
 # Managed Bean
 - Managed Bean é um objeto Java que é gerenciado pelo Framework JSF
